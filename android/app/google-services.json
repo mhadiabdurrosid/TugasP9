@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "207282525472",
+    "project_id": "pmobile9-635dd",
+    "storage_bucket": "pmobile9-635dd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207282525472:android:241eeeb80c70b6a8b43345",
+        "android_client_info": {
+          "package_name": "com.example.p9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2xmIkYkiiQgkE4IXXoAU_lPlC4_5DZAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
